@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on real life prob
-- 📫 How to reach me nothing to reach me
+- 📫 How to reach me noone try to search me.
 
 <!---
 Abhinavmishradatascientist/Abhinavmishradatascientist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
