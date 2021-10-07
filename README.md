@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhinavmishradatascientist
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning Front end development.
 - 💞️ I’m looking to collaborate on real life prob
 - 📫 How to reach me noone try to search me.
 
